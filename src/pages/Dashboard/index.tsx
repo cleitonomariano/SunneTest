@@ -1,9 +1,9 @@
 import React from 'react';
 
-const App: React.FC = () => (
+const Dashboard: React.FC = () => (
   <>
     <h1>Dashboard</h1>
   </>
 );
 
-export default App;
+export default Dashboard;
